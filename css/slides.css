@@ -1413,6 +1413,7 @@ p.uppercase, .p.uppercase,
   height: 100%;
 }
 
+
 .fix-1-12 {
   max-width: 93px !important;
 }
@@ -1920,6 +1921,7 @@ html.mobile .showForMobileInline {
   font-weight: 400;
   display: inline-block;
   margin: 0 10px;
+  color: white;
 }
 .panel .sections .menu li a {
   padding: 0 7px;
