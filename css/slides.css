@@ -1813,6 +1813,12 @@ html.mobile .showForMobileInline {
 .panel.bottom {
   bottom: 0;
 }
+
+.panel .bottom .backgroundColor {
+  background-color: grey;
+  opacity: 40%;
+  width: 100%;
+}
 .panel.white {
   background: rgba(255, 255, 255, 0.975) !important;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.07);
@@ -1855,6 +1861,7 @@ html.mobile .showForMobileInline {
           transform: translateY(100%) !important;
   opacity: 0;
 }
+
 .panel .sections {
   display: table;
   width: 100%;
