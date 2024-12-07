@@ -2,43 +2,18 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="68mm"
-   height="68mm"
-   viewBox="0 0 68 68"
+   width="311.95212mm"
+   height="62.324875mm"
+   viewBox="0 0 311.95212 62.324875"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="JoinOurTeam.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.72426347"
-     inkscape:cx="396.26464"
-     inkscape:cy="561.25984"
-     inkscape:window-width="1785"
-     inkscape:window-height="1371"
-     inkscape:window-x="20"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
-     showgrid="false" />
   <defs
      id="defs1" />
   <g
-     inkscape:label="Logo"
-     inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-1.3437959,-1.9210714)">
     <g
        id="g2505"
        style="fill:#ffffff;fill-opacity:1;stroke:none"
@@ -81,19 +56,16 @@
          ry="1.4687346" />
     </g>
     <g
-       inkscape:groupmode="layer"
-       id="layer2"
-       inkscape:label="Text">
+       id="layer2">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.1073px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:1.45564;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.1073px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1.45564"
          x="100.1953"
          y="45.104694"
          id="text1"
          transform="scale(0.71559682,1.3974349)"><tspan
-           sodipodi:role="line"
            id="tspan1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.1073px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.45564;fill:#ffffff;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.1073px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.45564"
            x="100.1953"
            y="45.104694">Join our team</tspan></text>
     </g>
