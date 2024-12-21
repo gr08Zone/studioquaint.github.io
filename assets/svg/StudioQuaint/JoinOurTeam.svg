@@ -2,22 +2,45 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="298.51352mm"
-   height="65.612701mm"
-   viewBox="0 0 298.51352 65.612701"
+   width="242.19287mm"
+   height="40.035709mm"
+   viewBox="0 0 242.19287 40.03571"
    version="1.1"
    id="svg1"
+   sodipodi:docname="JoinOurTeam.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false">
+    <inkscape:page
+       x="-2.4808647e-16"
+       y="0"
+       width="242.19287"
+       height="40.035709"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
      id="layer1"
-     transform="translate(-1.3437959,-1.9210714)"
+     transform="translate(-1.7264216,-27.169483)"
      style="display:inline">
     <g
        id="layer2"
-       transform="translate(-74.09444,-1.6428922)">
+       transform="translate(-75.244464,-0.32857806)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.5746px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1.13847"
@@ -28,48 +51,7 @@
            id="tspan1"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.5746px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.13847"
            x="90.533241"
-           y="56.430393">Join      ur team</tspan></text>
-    </g>
-    <g
-       id="g2505"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.91850839,0,0,0.86991273,-165.94217,-93.938632)">
-      <path
-         id="path2495"
-         style="fill:#b2846d;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-dasharray:none;paint-order:stroke fill markers"
-         d="m 299.32682,170.02341 c -4.56677,0 -8.24317,3.6764 -8.24317,8.24317 v 4.39146 a 23.704567,23.704567 0 0 0 9.22502,1.88516 23.704567,23.704567 0 0 0 21.83717,-14.51979 z m 5.60999,3.27319 a 3.7694373,3.7694373 0 0 1 3.76954,3.76954 3.7694373,3.7694373 0 0 1 -3.76954,3.76953 3.7694373,3.7694373 0 0 1 -3.76928,-3.76953 3.7694373,3.7694373 0 0 1 3.76928,-3.76954 z" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-linecap:round;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect2497"
-         width="47.409134"
-         height="4.9670243"
-         x="276.60419"
-         y="155.89156"
-         ry="2.4835122" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-linecap:round;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect2499"
-         width="40.806244"
-         height="4.2752438"
-         x="279.86481"
-         y="147.06534"
-         ry="2.1376219" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-linecap:round;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect2501"
-         width="28.134184"
-         height="2.9476004"
-         x="286.20084"
-         y="140.99747"
-         ry="1.4738002" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-linecap:round;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect2503"
-         width="14.018743"
-         height="1.4687346"
-         x="293.25854"
-         y="138.11491"
-         ry="0.73436731" />
+           y="56.430393">Join Our Team</tspan></text>
     </g>
   </g>
 </svg>
